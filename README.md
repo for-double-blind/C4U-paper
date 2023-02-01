@@ -1,5 +1,8 @@
 # C4U-paper
-This is the repository for the code and data of paper: Cross-domain-aware Worker Selection with Training for Crowdsourced Annotation
+This is the repository for the code and data of paper: Cross-domain-aware Worker Selection with Training for Crowdsourced Annotation:
+
+
+![Overview of method](./figures/pipeline.png)
 
 ## Settings
 Intel Xeon Gold 6240 CPU @ 2.60GHz
