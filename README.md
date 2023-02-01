@@ -1,4 +1,4 @@
-# C4U-paper
+# Cross-domain-aware Worker Selection with Training
 This is the repository for the code and data of paper: Cross-domain-aware Worker Selection with Training for Crowdsourced Annotation:
 
 
